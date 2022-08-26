@@ -1,4 +1,3 @@
-<h1 align="center"> Hi there, I'm Azhar 👋 </h1>
 
 <h6 align="center"> Let's connect on!</h6>
 
@@ -24,17 +23,24 @@
 </a> 
 </p>
 
+<h1 align="center"> Hi there, I'm Azhar 👋 </h1>
+
+
+<div align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="700" height="350"/>
+</div>
+
 
 <h5 align="center">   </h5>
 
 <h3 align="center"> A Developer :technologist: who is always ready to learn something new :sparkles: </h3>
 
 
-<h5 align="center">  :relaxed: A little bit about me </h5>
-<h5 align="center">   </h5>
+### :man_technologist: About Me :
 
+I am a Flutter Developer from Pakistan.
 
-- Senior Flutter Engineer at [Tap Payments](https://github.com/Tap-Payments)
+- I'm working as a Senior Software Engineer at [Tap Payments](https://github.com/Tap-Payments)
 - The tech I'm interested the most Flutter/IOS/ML/AR/Go Language. 
 - 15+ Live apps on Google Play Store & App Store developed in Flutter :blue_heart:
 - In my free time, I love to travel and explore the beauty of the world :earth_asia:
