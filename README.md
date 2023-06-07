@@ -43,7 +43,7 @@
 
 I am a Flutter Developer from Pakistan.
 
-- I'm working as a Senior Software Engineer at [Tap Payments](https://github.com/Tap-Payments)
+- I'm working as a Senior Software Engineer.
 - The tech I'm interested the most Flutter/IOS/ML/AR/Go Language. 
 - 15+ Live apps on Google Play Store & App Store developed in Flutter :blue_heart:
 - In my free time, I love to travel and explore the beauty of the world :earth_asia:
